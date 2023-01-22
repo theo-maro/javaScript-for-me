@@ -1,0 +1,20 @@
+{
+  "name": "javascript-for-me",
+  "version": "1.0.0",
+  "description": "This is the collection of the key concepts, best practices, tips and tricks for core JavaScript programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js4-me/javaScript-for-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/js4-me/javaScript-for-me/issues"
+  },
+  "homepage": "https://github.com/js4-me/javaScript-for-me#readme"
+}
